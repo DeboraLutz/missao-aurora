@@ -1,9 +1,5 @@
 # Conexão Vibracional e Alinhamento Energético
 
-Proprietário: Débora Lutz
-
-# Conexão Vibracional e Alinhamento Energético
-
 ## Visão Geral
 
 A conexão vibracional é a base da identidade e da presença de uma marca. Mais do que apenas sua comunicação e estética, sua energia precisa estar alinhada ao seu propósito, valores e ao impacto que deseja gerar. A sintonia com o Campo Informacional permite que a marca ressoe com clareza e autenticidade, gerando um vínculo profundo com seu público.
