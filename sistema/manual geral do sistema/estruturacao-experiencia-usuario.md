@@ -1,9 +1,5 @@
 # Estruturação da Experiência do Usuário
 
-Proprietário: Débora Lutz
-
-# Estruturação da Experiência do Usuário
-
 ## Visão Geral
 
 A experiência do usuário é a manifestação prática da identidade da marca no mundo físico e digital. Mais do que interações pontuais, trata-se de uma jornada que transmite a vibração da marca e estabelece uma conexão intuitiva e significativa com o público. A estruturação da experiência deve ser receptiva ao fluxo do Campo Informacional, garantindo harmonia e coerência em cada ponto de contato.
