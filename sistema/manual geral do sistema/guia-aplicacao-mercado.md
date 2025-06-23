@@ -1,9 +1,5 @@
 # Guia de Aplicação no Mercado
 
-Proprietário: Débora Lutz
-
-# Guia de Aplicação no Mercado
-
 # Visão Geral
 
 Uma marca não existe isoladamente; ela interage com o mercado e precisa ser aplicada de forma estratégica para garantir coerência e impacto. Esse guia define como a marca deve ser inserida, comunicada e sustentada dentro do ecossistema competitivo sem comprometer sua identidade vibracional.
