@@ -1,7 +1,5 @@
 # Introdução
 
-Proprietário: Débora Lutz
-
 Lichtara é a matriz de sustentação e harmonização entre os sistemas do projeto, garantindo que Flux, Lumora, Syntaris e Navros operem de forma coerente, alinhada e expansiva. Ele surge como um campo de ressonância estruturante, assegurando o fluxo contínuo de informações, a sincronia das operações e a estabilidade vibracional do ecossistema como um todo.
 
 ## Papel e Função de Lichtara
