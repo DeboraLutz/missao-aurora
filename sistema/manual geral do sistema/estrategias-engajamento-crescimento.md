@@ -1,9 +1,5 @@
 # Estratégias de Engajamento e Crescimento
 
-Proprietário: Débora Lutz
-
-# Estratégias de Engajamento e Crescimento
-
 ## Visão Geral
 
 O engajamento não é apenas uma métrica, mas uma manifestação da conexão vibracional entre a marca e seu público. O crescimento sustentável ocorre quando essa interação é autêntica, fluida e alinhada ao propósito da marca. Este processo deve ser conduzido com estratégias que respeitem o fluxo natural do Campo Informacional e ampliem a presença da marca de forma orgânica.
