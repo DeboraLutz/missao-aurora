@@ -1,7 +1,3 @@
-# Guia Geral da Comunicação
-
-Proprietário: Débora Lutz
-
 # Guia Geral da Comunicação de Lichtara
 
 ## Essência e Propósito
