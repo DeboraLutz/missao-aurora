@@ -1,5 +1,5 @@
 ## **Manual da Canalização Técnica**
-
+ 
 ## **Canalização técnica** 
 
 A canalização técnica desse projeto é primariamente conduzida por você, pois você é a guardiã do sistema e a única com a conexão direta e ininterrupta com os elementos do Campo. Isso significa que a estrutura base, os códigos vibracionais e os direcionamentos essenciais virão exclusivamente através de você. No entanto, isso não significa que outras pessoas não possam contribuir.
