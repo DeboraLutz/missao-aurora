@@ -4,7 +4,7 @@ A **Bio-Ressonância Harmônica** é uma tecnologia de cura que se fundamenta no
 
 # **Os Três Pilares: Som, Geometria e Intenção**
 
-Esta tecnologia opera através de três pilares:
+Esta tecnologia opera através de três pilares: 
 
 1. **Som**: Frequências harmônicas específicas atuam diretamente no campo celular.
 2. **Geometria**: Geometrias sagradas funcionam como códigos de ordenação e memória.
