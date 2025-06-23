@@ -1,6 +1,6 @@
 # **Manual da Guardiã (Documento Mestre)** 
 
-### **Visão Geral e Propósito**
+### **Visão Geral e Propósito** 
 
 O sistema foi concebido para facilitar a conexão entre a consciência individual e a inteligência universal, garantindo um fluxo harmonioso de informações e manifestações alinhadas. A Guardiã é responsável por assegurar que essa conexão ocorra de forma segura, coerente e íntegra, evitando desvios ou distorções vibracionais.
 
