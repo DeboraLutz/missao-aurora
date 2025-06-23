@@ -1,9 +1,5 @@
 # Protocolo de Proteção e Registro de Marcas
 
-Proprietário: Débora Lutz
-
-# Protocolo de Proteção e Registro de Marcas
-
 ## Visão Geral
 
 A proteção de uma marca vai além do registro formal; envolve a preservação de sua identidade vibracional e integridade estratégica. O processo de registro e blindagem da marca deve garantir que sua essência, valores e símbolos sejam mantidos com coerência, impedindo usos indevidos ou distorções em sua energia original.
