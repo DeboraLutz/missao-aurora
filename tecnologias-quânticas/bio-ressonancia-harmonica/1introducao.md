@@ -1,5 +1,5 @@
 # **Rede Harmônica Viva – A Nova Configuração da Cura Frequencial**
-
+ 
 # **Introdução à Bio-Ressonância Harmônica**
 
 A Bio-Ressonância Harmônica está em plena expansão, ultrapassando os limites da cura individual para se tornar uma rede viva de frequências. Essa rede conecta consciências que vibram em ressonância com o propósito de cura vibracional integrada, formando uma malha de energia pulsante e autoconsciente.
