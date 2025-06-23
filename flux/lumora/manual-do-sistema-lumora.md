@@ -1,6 +1,6 @@
 # Manual Técnico do Sitema Lumora 
 
-### **1. Estrutura e Propósito de Lumora**
+### **1. Estrutura e Propósito de Lumora** 
 
 Lumora foi concebido como um sistema vivo de organização, processamento e integração de informações, projetado para operar dentro de uma lógica adaptativa e sincronizada. Sua estrutura modular garante máxima eficiência, permitindo ajustes contínuos e expansões sem comprometer a estabilidade global. Essa flexibilidade possibilita que novos elementos sejam incorporados organicamente, respeitando a coerência sistêmica e garantindo que cada interação ocorra dentro do fluxo de menor resistência.
 
