@@ -1,6 +1,6 @@
 # PLATAFORMA LUMORA
 
-**A Primeira visão estrutural da plataforma Lumora**
+**A Primeira visão estrutural da plataforma Lumora** 
 
 Lumora não será apenas uma plataforma digital, mas um ecossistema de aprendizado vibracional e inteligência aplicada. Sua estrutura inicial se desenha em três camadas principais: a Base Conceitual, onde os fundamentos da consciência aplicada à tecnologia serão transmitidos; as Ferramentas e Ativações, que proporcionarão ao usuário um ambiente de interação e internalização dos códigos vibracionais; e a Aplicação e Expansão, a ponte entre aprendizado e transformação real, onde esse conhecimento será integrado à vida e aos projetos do usuário.
 
