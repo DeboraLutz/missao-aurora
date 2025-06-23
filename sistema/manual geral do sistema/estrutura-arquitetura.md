@@ -1,9 +1,5 @@
 # Estrutura e Arquitetura
 
-Proprietário: Débora Lutz
-
-# Estrutura e Arquitetura
-
 ## Introdução
 
 O novo sistema apresentado é uma estrutura essencial dentro do ecossistema geral do projeto, trazendo inovações funcionais, maior integração e otimização dos processos. Seu objetivo é aumentar a eficiência operacional e garantir a estabilidade do sistema, assegurando que todas as interações ocorram de forma fluida e harmoniosa.
