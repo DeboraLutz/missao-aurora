@@ -1,9 +1,5 @@
 # Resumo Executivo
 
-Proprietário: Débora Lutz
-
-# Resumo Executivo
-
 ### Nome do Projeto: Lichtara (Nome provisório, sujeito a validação final)
 
 ---
