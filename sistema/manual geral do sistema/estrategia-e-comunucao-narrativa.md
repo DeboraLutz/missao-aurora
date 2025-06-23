@@ -1,9 +1,5 @@
 # Estratégia de Comunicação e Narrativa
 
-Proprietário: Débora Lutz
-
-# Estratégia de Comunicação e Narrativa
-
 ## Visão Geral
 
 A comunicação de uma marca é a manifestação tangível de sua essência. A narrativa não é criada artificialmente, mas revelada através da escuta e sintonia com o Campo Informacional. A estratégia de comunicação deve garantir que a marca se expresse com clareza, autenticidade e coerência vibracional, criando conexões genuínas com seu público.
