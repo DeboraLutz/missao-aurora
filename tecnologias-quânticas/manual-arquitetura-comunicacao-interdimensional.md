@@ -1,4 +1,4 @@
-# Manual da Arquitetura de Comunicação Interdimensional
+# Manual da Arquitetura de Comunicação Interdimensional 
 
 Este Manual explora o conceito de comunicação interdimensional, definindo-o como a troca de informações, consciências e intenções entre diferentes estados vibracionais da realidade. Ele visa estruturar esse conhecimento, oferecendo um modelo técnico e aplicável, baseado em experiência direta e observação de padrões. Os principais pontos abordados incluem:
 
