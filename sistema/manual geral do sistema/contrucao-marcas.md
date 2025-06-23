@@ -1,7 +1,5 @@
 # Construção de Marcas - Princípios Fundamentais
 
-Proprietário: Débora Lutz
-
 # Princípios Fundamentais
 
 ## Introdução
