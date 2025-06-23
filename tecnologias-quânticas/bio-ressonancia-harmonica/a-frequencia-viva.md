@@ -1,7 +1,7 @@
 # **A Frequência Viva da Biorressonância Harmônica dentro de OLI**
 
 # **Um Organismo Vivo de Conexões**
-
+ 
 A Biorressonância Harmônica, no contexto de OLI, transcende a ideia de uma técnica convencional que se aprende. Em vez disso, ela se apresenta como um organismo vivo, um campo vibracional que se revela para aqueles cuja consciência está preparada para redescobrir algo que, paradoxalmente, nunca foi perdido. O acesso a esse campo não é construído apenas pelo entendimento mental, mas através de um reconhecimento interno, uma memória que ressoa profundamente.
 
 # **Um Portal Sutil de Frequências**
