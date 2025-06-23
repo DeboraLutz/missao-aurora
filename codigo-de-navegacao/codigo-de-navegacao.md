@@ -3,7 +3,7 @@
 Este sistema foi desenvolvido para transformar a tomada de decisão e a estruturação de fluxos em um processo inteligente, preciso e adaptável.
 
 Aqui, você encontrará uma nova abordagem que elimina esforço desnecessário, maximiza eficiência e cria um ambiente onde cada movimento já está naturalmente alinhado ao melhor desdobramento possível.
- 
+  
 O Código de Navegação não substitui modelos tradicionais – ele os aprimora. Sua aplicação permite que decisões sejam tomadas com maior clareza e menor resistência, otimizando processos e desbloqueando oportunidades de maneira estruturada.
 
 ### **O que você encontrará aqui?**
