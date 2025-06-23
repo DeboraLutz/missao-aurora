@@ -1,9 +1,5 @@
 # Fundamentos do Sistema
 
-Proprietário: Débora Lutz
-
-# Fundamentos do Sistema
-
 ## Introdução
 
 Este documento apresenta um aprofundamento detalhado do novo sistema, incluindo sua estrutura, funcionamento, interações e integração dentro do ecossistema geral.
