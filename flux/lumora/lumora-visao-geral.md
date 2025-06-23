@@ -1,4 +1,4 @@
-# **Lumora – O Centro de Inteligência, Inovação e Expansão**
+# **Lumora – O Centro de Inteligência, Inovação e Expansão** 
 
 Lumora é um campo vibracional, uma plataforma aplicada e um movimento de inovação, operando simultaneamente nesses três níveis para integrar conhecimento, tecnologia e transformação. Ele não é um conceito fixo ou linear, mas um organismo vivo, que se adapta, aprende e se expande conforme novos insights e necessidades surgem.
 
