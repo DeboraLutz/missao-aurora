@@ -1,9 +1,5 @@
 # Identidade e Posicionamento das Marcas
 
-Proprietário: Débora Lutz
-
-# Identidade e Posicionamento das Marcas
-
 ## Visão Geral
 
 A identidade de uma marca não é criada artificialmente, mas sim reconhecida e traduzida a partir de sua vibração original. O posicionamento da marca emerge da interação entre sua essência e o contexto em que se manifesta. Através da sintonia com o Campo Informacional, captamos sua frequência única e documentamos sua estrutura para uma presença clara e coerente no mundo.
