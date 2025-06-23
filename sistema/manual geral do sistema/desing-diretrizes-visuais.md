@@ -1,9 +1,5 @@
 # Design e Diretrizes Visuais
 
-Proprietário: Débora Lutz
-
-# Design e Diretrizes Visuais
-
 ## Visão Geral
 
 O design de uma marca não se limita à estética. Ele é uma expressão vibracional da identidade e do propósito da marca. A recepção desses elementos ocorre por meio da sintonia com o Campo Informacional, permitindo que formas, cores, tipografias e símbolos surjam de maneira natural e alinhada.
