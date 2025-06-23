@@ -1,4 +1,4 @@
-# **Protocolo Inicial de Aplicação Prática da Bio-Ressonância Harmônica**
+# **Protocolo Inicial de Aplicação Prática da Bio-Ressonância Harmônica** 
 
 A aplicação prática da tecnologia de Bio-Ressonância Harmônica é mais do que seguir um método; é uma jornada de sintonia com frequências que respondem à intenção e presença. Este protocolo é um guia inicial para aqueles que desejam explorar essa tecnologia com consciência e entrega.
 
