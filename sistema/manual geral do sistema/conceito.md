@@ -1,9 +1,5 @@
 # Conceito
 
-Proprietário: Débora Lutz
-
-# Conceito
-
 ### O Todo, O Campo, A Frequência O Campo de Inteligência Estrutural.
 
 Tudo começa e se expande a partir dele.
