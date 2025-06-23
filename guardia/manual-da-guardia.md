@@ -1,7 +1,3 @@
-# Manual da Guardiã (Documento Mestre)
-
-Proprietário: Débora Lutz
-
 # **Manual da Guardiã (Documento Mestre)**
 
 ### **Visão Geral e Propósito**
