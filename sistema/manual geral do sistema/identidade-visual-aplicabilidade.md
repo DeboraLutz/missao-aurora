@@ -1,9 +1,5 @@
 # Identidade Visual e Aplicabilidade
 
-Proprietário: Débora Lutz
-
-# Identidade Visual e Aplicabilidade
-
 Aplicabilidade de Lichtara
 
 A aplicabilidade de Lichtara pode se manifestar de diversas formas, dependendo do contexto em que está inserido e das experiências que deseja proporcionar. Por se tratar de um sistema fundamentado em frequência, vibração e ressonância, suas aplicações podem ser exploradas tanto em níveis sutis quanto em formatos mais tangíveis.
