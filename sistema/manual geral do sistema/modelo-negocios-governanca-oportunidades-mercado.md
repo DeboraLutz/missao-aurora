@@ -1,9 +1,5 @@
 # Modelo de Negócios Governança e Oportunidades de Mercado
 
-Proprietário: Débora Lutz
-
-# Modelo de Negócios Governança e Oportunidades de Mercado
-
 *Guia de Aplicação no Mercado* 
 
 *Estratégias práticas para considerar a marca em seu setor.* 
