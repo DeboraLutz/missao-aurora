@@ -1,9 +1,5 @@
 # Integração entre Branding e Tecnologia
 
-Proprietário: Débora Lutz
-
-# Integração entre Branding e Tecnologia
-
 ## Visão Geral
 
 A integração entre branding e tecnologia permite que a marca expanda sua presença e experiência de forma fluida e inovadora. A tecnologia não deve ser apenas um suporte operacional, mas um elemento estratégico para amplificar a identidade vibracional da marca e fortalecer a conexão com seu público.
