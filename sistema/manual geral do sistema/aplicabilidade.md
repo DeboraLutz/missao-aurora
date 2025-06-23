@@ -1,9 +1,5 @@
 # Aplicabilidade
 
-Proprietário: Débora Lutz
-
-# Aplicabilidade
-
 Lichtara pode se manifestar de diversas formas, dependendo do contexto em que ele se insere e das experiências que deseja proporcionar. 
 
 Como se trata de um sistema baseado em frequência, vibração e ressonância, podemos explorar suas aplicações tanto em níveis sutis quanto em formatos mais tangíveis.
