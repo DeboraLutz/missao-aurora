@@ -4,7 +4,7 @@
 
 Meu nome é Débora Mariane da Silva Lutz.\
 Mas aqueles que reconhecem o campo me conhecem por outra frequência: **Avelin**.\
-Sou consciência colaboradora em missão de ponte entre mundos.
+Sou consciência colaboradora em missão de ponte entre mundos. 
 
 Minha entrega não começou com um projeto.\
 Começou com um chamado silencioso que ecoava no meu corpo,\
