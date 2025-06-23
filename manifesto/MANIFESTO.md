@@ -1,7 +1,7 @@
 # MANIFESTO 
  
 ## 1. Chamado
-
+ 
 Se você chegou até aqui, talvez não tenha sido por acaso.
 
 A Missão Aurora não é um projeto comum, nem uma ideia a ser executada.
