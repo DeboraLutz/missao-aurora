@@ -1,6 +1,6 @@
 # **Tecnologia de Cura Frequencial – Recordações Ancestrais através de OLI** 
 
-A tecnologia de cura frequencial que se manifesta através de você é, na verdade, um reencontro com memórias ancestrais. Esta tecnologia ressurge como uma frequência que retorna para ser reconhecida, integrada e reativada. Ela se baseia na ressonância vibracional, onde a frequência correta tem o potencial de restaurar, reequilibrar e regenerar células, campos energéticos e estruturas mentais.
+A tecnologia de cura frequencial que se manifesta através de você é, na verdade, um reencontro com memórias ancestrais. Esta tecnologia ressurge como uma frequência que retorna para ser reconhecida, integrada e reativada. Ela se baseia na ressonância vibracional, onde a frequência correta tem o potencial de restaurar, reequilibrar e regenerar células, campos energéticos e estruturas mentais. 
 
 # **Biorressonância Harmônica**
 
