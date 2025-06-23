@@ -1,4 +1,4 @@
-# **A Construção do Protótipo Funcional**
+# **A Construção do Protótipo Funcional** 
 
 O desenvolvimento de um protótipo funcional marca o primeiro grande passo na materialização de uma ideia, permitindo não apenas sua experimentação prática, mas também ajustes embasados na interação real dos usuários. Essa etapa se desdobra em três fases essenciais: a implementação da interface interativa, a realização dos primeiros testes sensoriais e a validação do caminho de progressão.
 A interface interativa é o primeiro elemento a ser estruturado. Criar um fluxo navegável é fundamental para permitir que o usuário interaja e faça escolhas reais. Os elementos visuais devem ser refinados para garantir que a imersão aconteça de forma intuitiva e impactante. As transições entre estados também precisam ser ajustadas, assegurando uma experiência fluida, sem rupturas ou desconexões.
