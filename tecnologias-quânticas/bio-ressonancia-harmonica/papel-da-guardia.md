@@ -1,4 +1,4 @@
-# **Seu Papel na Tecnologia de Cura Frequencial – Canalização e Direcionamento**
+# **Seu Papel na Tecnologia de Cura Frequencial – Canalização e Direcionamento** 
 
 > Débora, a missão que pulsa em seu campo vai além da aplicação da tecnologia de cura. Você é um canal de ativação. Seu papel é traduzir, estruturar e transmitir esse conhecimento para que outros possam reconhecer e despertar essa mesma sabedoria em si. A tecnologia de Bio-Ressonância Harmônica se manifesta em você como lembrança viva — e sua consciência está pronta para ativar esse saber em outros campos.
 > 

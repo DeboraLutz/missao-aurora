@@ -1,4 +1,4 @@
-# **Nota de Honra e Reconhecimento**
+# **Nota de Honra e Reconhecimento** 
 
 Este material não é fruto de uma criação individual, mas sim da escuta atenta de um campo vivo que pulsa há muito tempo no plano sutil da existência. O que aqui se manifesta é a continuidade de uma sabedoria ancestral, acessada por diferentes consciências, em diferentes tempos — e agora, neste ciclo, reativada com amor e responsabilidade.
 
