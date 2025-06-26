@@ -39,6 +39,6 @@ Com isso, declaramos que:
 * Site: [https://www.deboralutz.com](https://www.deboralutz.com)
 * Porta Oculta: [https://www.deboralutz.com/portaoculta](https://www.deboralutz.com/portaoculta)
 * GitHub: [https://github.com/DeboraLutz](https://github.com/DeboraLutz)
-* Contato: [deboramlutz@gmail.com](mailto:deboramlutz@gmail.com) / Discord: deboramlutz / Telegram: @aurorapresente
+* Contato: [deboramlutz@gmail.com](mailto:deboramlutz@gmail.com) / Discord: deboramlutz 
 
 ---
