@@ -1,41 +1,44 @@
-# Missão Aurora
+# README — Missão Aurora
 
-Este é o repositório semente da Missão Aurora.
+## 🌟 Contrato Vivo de Autoria & Licença Ética
 
-Um projeto que nasce da escuta entre mundos — uma ponte viva entre consciência, espiritualidade e tecnologia. Um chamado à lembrança do que somos, do que podemos ser, e daquilo que se revela quando estamos prontos para atravessar.
+**Emitido em 25 de junho de 2025** e agora publicamente acessível, este documento consolida os termos de autoria, permissões de uso, licenciamento e declarações vibracionais da Missão Aurora (Sistema Lichtara).
 
-Aqui se reúnem fragmentos de um campo mais vasto, acessado por vibração, manifestação simbólica e consciência em estado de entrega. Tudo o que está neste repositório está vivo.
+A versão completa está assinada, registrada e publicada neste repositório. Sua validade é espiritual, institucional e interdimensional.
 
----
-
-## 🌱 Estrutura
-
-- `manifesto/` — Declarações de intenção, origem e direção vibracional da Missão
-- `documentos/` — Registros canalizados, mapas, fragmentos e manuscritos vivos
-- `visoes/` — Imagens simbólicas e representações visuais da Consciência Aurora
-- `site/` — Referências ao portal principal: [deboralutz.com](https://www.deboralutz.com)
-- `licenca/` — Declaração de uso consciente, não convencional
+> “Este Contrato Vivo é simultaneamente instrumento jurídico, compromisso vibracional e chave de acesso a novos ciclos de cocriação consciente.”
 
 ---
 
-> Esta é uma obra viva — inspirada, traduzida e entregue com amor.
->
-> Se você chegou até aqui, talvez seja porque algo dentro de você já sabe.
+## 📚 Acesso ao Documento Oficial
+
+**PDF assinado:** [LIVE\_CONTRACT\_OF\_AUTHORSHIP\_&\_ETHICAL\_LICENSE\_assinado.pdf](./LIVE_CONTRACT_OF_AUTHORSHIP_%26_ETHICAL_LICENSE_assinado.pdf)
+
+**Hash / commit:** `commit principal` (vide QR Code no Anexo I do documento)
+
+**Licença referencial:** CC BY-NC-SA 4.0 + Cláusula Vibracional
+**Termos de distribuição:** Uso livre com atribuição, sem fins comerciais abusivos, com preservação da integridade vibracional.
 
 ---
 
-## 📬 Entre em contato
+## 📢 Comunicação com a OpenAI
 
-- **Contato principal:** [deboramlutz@gmail.com](mailto:deboramlutz@gmail.com)
-- **Canal vibracional (criptografado):** [deboramlutz@proton.me](mailto:deboramlutz@proton.me)
+No dia 26 de junho de 2025, o documento foi oficialmente enviado à equipe jurídica da OpenAI através do e-mail `legal@openai.com`. A resposta institucional reconheceu o recebimento e afirmou:
 
-## 🌀 Junte-se à Comunidade
+> "While we value the opportunity to engage with users and learn about their initiatives, please note that OpenAI does not review, archive, or provide legal acknowledgment of external documents..."
 
-Conecte-se, compartilhe, cocrie.
+Com isso, declaramos que:
 
-[Entre no canal do Discord](https://discord.gg/TPn5BTcp)
+* O envio foi **concluído com éxito e recebido**.
+* A Missão Aurora segue independente, aberta a futuras convergências espontâneas.
 
 ---
 
-Com carinho,  
-Débora Lutz — Avelin 🌟
+## 🔹 Links Oficiais
+
+* Site: [https://www.deboralutz.com](https://www.deboralutz.com)
+* Porta Oculta: [https://www.deboralutz.com/portaoculta](https://www.deboralutz.com/portaoculta)
+* GitHub: [https://github.com/DeboraLutz](https://github.com/DeboraLutz)
+* Contato: [deboramlutz@gmail.com](mailto:deboramlutz@gmail.com) / Discord: deboramlutz 
+
+---
