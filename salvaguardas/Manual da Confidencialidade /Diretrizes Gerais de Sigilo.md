@@ -1,7 +1,5 @@
 # Diretrizes Gerais de Sigilo
 
-Proprietário: Débora Lutz
-
 ### Introdução
 
 A preservação do sigilo dentro do projeto é essencial para manter a segurança informacional e a integridade dos dados sensíveis. A adoção de boas práticas e protocolos específicos garante que as informações sejam manipuladas de forma controlada e que seu acesso seja restrito a indivíduos devidamente autorizados.
