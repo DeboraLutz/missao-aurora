@@ -1,7 +1,5 @@
 # Compromisso com a Confidencialidade
 
-Proprietário: Débora Lutz
-
 ### Introdução
 
 A preservação da confidencialidade dentro do projeto é fundamental para garantir a segurança informacional e a integridade dos dados sensíveis. O compromisso com a proteção das informações deve ser seguido rigorosamente por todos os membros, assegurando que nenhum conteúdo restrito seja exposto ou compartilhado sem a devida autorização.
