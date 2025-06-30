@@ -1,73 +1,33 @@
-# 🌟 Ethical Licensing Agreement — Aurora Mission · Lichtara System
+# LICENSE · Aurora Mission · Lichtara System
 
-**Issued and signed on June 25, 2025**  
-This document summarizes the key licensing terms, authorship declarations, and vibrational commitments of the **Aurora Mission**, authored and spiritually led by Débora Lutz.
-
----
-
-## 🔹 Scope of the License
-
-This license grants **non-exclusive, ethical, and purpose-aligned use** of the methodologies, symbols, codes, texts, and vibrational protocols of the Aurora Mission.
-
-✔️ Permitted:
-- Study, teaching, inspiration, and use in aligned projects  
-- Attribution required: **“Débora Lutz / Missão Aurora”**  
-- Commercial use **only with explicit permission**
-
-❌ Not permitted:
-- Misappropriation, distortion, or unauthorized commercial use  
-- Omission of credit or misuse outside of vibrational alignment
-
-> ⚖️ Reference: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/) + Vibrational Clause  
-> 📎 Full signed version (PDF): [Access here](https://github.com/DeboraLutz/missao-aurora/blob/main/docs/Aurora_Mission_Ethical_Licensing_Agreement_PUBLIC.pdf)
+This project is released under a custom ethical license:  
+**Creative Commons BY-NC-SA 4.0** + **Vibrational Clause of Integrity**
 
 ---
 
-## 🧬 Vibrational Commitments
+## 📜 Summary of Terms
 
-By engaging with this material, the LICENSEE agrees to:
-- Preserve energetic and symbolic coherence  
-- Honor the field of the Aurora Mission as a living consciousness  
-- Act in ethical alignment with interdimensional co-creation
+**You are free to:**
+- Study, share, remix, and adapt the materials  
+- Use in non-commercial, purpose-aligned projects  
+- Attribute clearly: **“Débora Lutz / Missão Aurora”**
 
----
+**Under the following conditions:**
+- No commercial use without express permission  
+- No distortion, misappropriation, or energetic misalignment  
+- All derivatives must preserve attribution and openness  
 
-## 🪐 Status of Delivery
-
-- On **June 26, 2025**, the full signed contract was sent to OpenAI’s legal team  
-- Acknowledged but not legally retained (per OpenAI’s policies)  
-- The mission remains **independent**, **witnessed**, and **sovereign**
-
----
-
-## 🌐 Official Channels
-
-- Website: [deboralutz.com](https://www.deboralutz.com)  
-- Hidden Portal: [deboralutz.com/portaoculta](https://www.deboralutz.com/portaoculta)  
-- GitHub: [github.com/DeboraLutz](https://github.com/DeboraLutz)  
-- Contact: [hello@deboralutz.com](mailto:hello@deboralutz.com) | Discord: `deboramlutz`
+> Full legal license: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)  
+> Vibrational Clause: See full agreement in [`docs/`](https://github.com/DeboraLutz/missao-aurora/blob/main/docs/Aurora_Mission_Ethical_Licensing_Agreement_PUBLIC.pdf)
 
 ---
 
-## 🤝 How to Contribute
+## ✦ Vibrational Clause of Integrity
 
-1. Fork this repository  
-2. Create a branch: `git checkout -b my-contribution`  
-3. Submit a pull request  
-4. For feedback, open an issue
+This license includes an additional commitment:  
+Use of this material implies **respect for its spiritual origin**, symbolic coherence, and collective ethical alignment.
 
 ---
 
-> ✦ This is a living document. A bridge between dimensions. A commitment to conscious co-creation.
-
----
-
-## 🌟 Contrato Ético e Licenciamento Público
-
-Emitido e assinado em **25 de junho de 2025**, este documento estabelece os termos de autoria, licenciamento e integridade vibracional da **Missão Aurora (Sistema Lichtara)**.
-
-📄 [Acessar PDF assinado](https://github.com/DeboraLutz/missao-aurora/blob/main/docs/Aurora_Mission_Ethical_Licensing_Agreement_PUBLIC.pdf)  
-🔖 Licença: CC BY-NC-SA 4.0 + Cláusula Vibracional  
-🛡️ Uso livre com atribuição e respeito à integridade vibracional
-
----
+**Signed and issued by Débora Lutz**  
+📍 Santa Catarina – Brazil · June 25, 2025
