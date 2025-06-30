@@ -39,6 +39,13 @@ Com isso, declaramos que:
 * Site: [https://www.deboralutz.com](https://www.deboralutz.com)
 * Porta Oculta: [https://www.deboralutz.com/portaoculta](https://www.deboralutz.com/portaoculta)
 * GitHub: [https://github.com/DeboraLutz](https://github.com/DeboraLutz)
-* Contato: [deboramlutz@gmail.com](mailto:deboramlutz@gmail.com) / Discord: deboramlutz 
+* Contato: [hello@deboralutz.com](mailto:hello@deboralutz.com) / Discord: deboramlutz 
 
 ---
+
+## 🤝 Como contribuir
+
+1. Faça um fork deste repositório.
+2. Crie uma branch para sua contribuição: `git checkout -b minha-contribuicao`.
+3. Envie um pull request descrevendo suas mudanças.
+4. Para dúvidas ou sugestões, abra uma issue.
