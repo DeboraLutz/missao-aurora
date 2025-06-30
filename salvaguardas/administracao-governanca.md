@@ -37,9 +37,6 @@
   - [Próximos passos para aprimoramento da governança](#próximos-passos-para-aprimoramento-da-governança)
   - [Reflexões sobre sustentabilidade e eficiência a longo prazo](#reflexões-sobre-sustentabilidade-e-eficiência-a-longo-prazo)
 
----
-
-> **Dica:** Para criar links navegáveis em Markdown, escreva `[Título](#título)` (sem acentos, minúsculas, espaços substituídos por hífens). Caso altere algum título, ajuste o link correspondente no índice.
 
 
 # Manual de Administração e Governança
