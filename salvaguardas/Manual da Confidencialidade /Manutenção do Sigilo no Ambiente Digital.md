@@ -1,7 +1,5 @@
 # Manutenção do Sigilo no Ambiente Digital
 
-Proprietário: Débora Lutz
-
 ### Introdução
 
 A segurança digital é um dos pilares para garantir a confidencialidade das informações dentro
