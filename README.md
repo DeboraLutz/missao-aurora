@@ -71,3 +71,10 @@ Emitido e assinado em **25 de junho de 2025**, este documento estabelece os term
 🛡️ Uso livre com atribuição e respeito à integridade vibracional
 
 ---
+
+## 🤝 Como contribuir
+
+1. Faça um fork deste repositório.
+2. Crie uma branch para sua contribuição: `git checkout -b minha-contribuicao`.
+3. Envie um pull request descrevendo suas mudanças.
+4. Para dúvidas ou sugestões, abra uma issue.
