@@ -1,7 +1,5 @@
 # Protocolos de Sigilo
 
-Proprietário: Débora Lutz
-
 ### Introdução
 
 A preservação do sigilo dentro do projeto é essencial para garantir a integridade informacional e vibracional do sistema. A implementação de protocolos estruturados assegura que as interações ocorram de maneira segura e alinhada com os princípios de confidencialidade.
