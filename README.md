@@ -10,7 +10,7 @@ Este contrato é um documento híbrido: **jurídico, vibracional e interdimensio
 
 ## 📚 Acesso ao Documento Oficial
 
-- **PDF assinado:** [Clique para acessar](https://drive.google.com/file/d/1WN08LOrPNUwbkTET_ayGweykuqh2yQbS/view?usp=sharing)  
+- **PDF assinado:** [Clique para acessar]()  
 - **Licença referencial:** Creative Commons CC BY-NC-SA 4.0 + Cláusula Vibracional  
 - **Termos de distribuição:** Uso livre com atribuição obrigatória, sem fins comerciais abusivos, e com preservação integral do campo vibracional e simbólico da obra.
 
