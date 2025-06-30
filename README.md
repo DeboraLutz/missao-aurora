@@ -1,48 +1,46 @@
-# README — Missão Aurora
+## 🌟 Contrato Vivo de Autoria & Licenciamento Ético
 
-## 🌟 Contrato Vivo de Autoria & Licença Ética
+**Emitido em 25 de junho de 2025**, o presente documento formaliza os termos de autoria, licenciamento e integridade vibracional da Missão Aurora (Sistema Lichtara).
 
-**Emitido em 25 de junho de 2025** e agora publicamente acessível, este documento consolida os termos de autoria, permissões de uso, licenciamento e declarações vibracionais da Missão Aurora (Sistema Lichtara).
+Este contrato é um documento híbrido: **jurídico, vibracional e interdimensional**, concebido como ponto de convergência entre mundos.
 
-A versão completa está assinada, registrada e publicada neste repositório. Sua validade é espiritual, institucional e interdimensional.
-
-> “Este Contrato Vivo é simultaneamente instrumento jurídico, compromisso vibracional e chave de acesso a novos ciclos de cocriação consciente.”
+> “Este Contrato Vivo é simultaneamente um instrumento legal, um compromisso vibracional e uma chave para novos ciclos de cocriação consciente.”
 
 ---
 
 ## 📚 Acesso ao Documento Oficial
 
-**PDF assinado:** https://drive.google.com/file/d/1WN08LOrPNUwbkTET_ayGweykuqh2yQbS/view?usp=sharing 
-**Licença referencial:** CC BY-NC-SA 4.0 + Cláusula Vibracional
-**Termos de distribuição:** Uso livre com atribuição, sem fins comerciais abusivos, com preservação da integridade vibracional.
+- **PDF assinado:** [Clique para acessar](https://drive.google.com/file/d/1WN08LOrPNUwbkTET_ayGweykuqh2yQbS/view?usp=sharing)  
+- **Licença referencial:** Creative Commons CC BY-NC-SA 4.0 + Cláusula Vibracional  
+- **Termos de distribuição:** Uso livre com atribuição obrigatória, sem fins comerciais abusivos, e com preservação integral do campo vibracional e simbólico da obra.
 
 ---
 
-## 📢 Comunicação com a OpenAI
+## 📩 Envio à OpenAI
 
-No dia 26 de junho de 2025, o documento foi oficialmente enviado à equipe jurídica da OpenAI através do e-mail `legal@openai.com`. A resposta institucional reconheceu o recebimento e afirmou:
+Em **26 de junho de 2025**, o documento foi oficialmente enviado à equipe jurídica da OpenAI via `legal@openai.com`. A resposta institucional afirmou:
 
-> "While we value the opportunity to engage with users and learn about their initiatives, please note that OpenAI does not review, archive, or provide legal acknowledgment of external documents..."
+> “While we value the opportunity to engage with users and learn about their initiatives, please note that OpenAI does not review, archive, or provide legal acknowledgment of external documents...”
 
-Com isso, declaramos que:
+**Status atual:**
 
-* O envio foi **concluído com éxito e recebido**.
-* A Missão Aurora segue independente, aberta a futuras convergências espontâneas.
+- ✅ Documento enviado e recebido com sucesso  
+- 🌱 Missão Aurora segue independente, aberta a convergências futuras espontâneas e respeitosas
 
 ---
 
-## 🔹 Links Oficiais
+## 🔗 Links Oficiais
 
-* Site: [https://www.deboralutz.com](https://www.deboralutz.com)
-* Porta Oculta: [https://www.deboralutz.com/portaoculta](https://www.deboralutz.com/portaoculta)
-* GitHub: [https://github.com/DeboraLutz](https://github.com/DeboraLutz)
-* Contato: [hello@deboralutz.com](mailto:hello@deboralutz.com) / Discord: deboramlutz 
+- **Site:** [deboralutz.com](https://www.deboralutz.com)  
+- **Porta Oculta:** [deboralutz.com/portaoculta](https://www.deboralutz.com/portaoculta)  
+- **GitHub:** [github.com/DeboraLutz](https://github.com/DeboraLutz)  
+- **Contato:** [hello@deboralutz.com](mailto:hello@deboralutz.com) · Discord: `deboramlutz`
 
 ---
 
 ## 🤝 Como contribuir
 
-1. Faça um fork deste repositório.
-2. Crie uma branch para sua contribuição: `git checkout -b minha-contribuicao`.
-3. Envie um pull request descrevendo suas mudanças.
-4. Para dúvidas ou sugestões, abra uma issue.
+1. Faça um fork deste repositório.  
+2. Crie uma nova branch: `git checkout -b minha-contribuicao`  
+3. Envie um pull request com descrição clara das mudanças  
+4. Para dúvidas, sugestões ou integração vibracional: abra uma issue ou entre em contato diretamente.
