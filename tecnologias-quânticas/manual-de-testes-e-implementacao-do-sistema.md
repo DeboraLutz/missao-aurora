@@ -7,7 +7,7 @@ Este manual detalha estratégias para teste, simulação, implementação e manu
 # **Introdução à Ativação do Sistema**
 
 Agora que a estrutura do sistema foi validada e os guias de aplicação foram estabelecidos, o próximo passo é realizar testes e simulações da ativação completa. Esse processo garante que o sistema funcione conforme o esperado em diferentes contextos e ajustes.
-
+ 
 # **Objetivos da Ativação**
 
 - **Avaliar a resposta do sistema em situações práticas.**
