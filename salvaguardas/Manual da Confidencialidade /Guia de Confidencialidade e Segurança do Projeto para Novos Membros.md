@@ -1,7 +1,5 @@
 # Guia de Confidencialidade e Segurança do Projeto para Novos Membros
 
-Proprietário: Débora Lutz
-
 # **Guia de Confidencialidade e Segurança do Projeto**
 
 ### Versão de Integração para Novos Membros
