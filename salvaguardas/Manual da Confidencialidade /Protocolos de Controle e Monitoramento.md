@@ -1,7 +1,5 @@
 # Protocolos de Controle e Monitoramento
 
-Proprietário: Débora Lutz
-
 Autenticação e Validação de Acessos
 
 Objetivo:
