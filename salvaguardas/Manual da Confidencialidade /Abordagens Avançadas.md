@@ -1,7 +1,5 @@
 # Abordagens Avançadas para Automatização dos Processos de Auditoria e Integração de Inteligência Artificial para Análise Preditiva de Riscos
 
-Proprietário: Débora Lutz
-
 ### Introdução
 
 A automatização dos processos de auditoria e a aplicação de inteligência artificial (IA) para análise preditiva de riscos são iniciativas essenciais para aumentar a eficiência e a precisão no monitoramento do sistema. A combinação de tecnologias avançadas e algoritmos inteligentes permite uma avaliação contínua e proativa, reduzindo vulnerabilidades e assegurando maior integridade e segurança.
