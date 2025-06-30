@@ -63,3 +63,21 @@ This reaffirms:
 ---
 
 > _This is a living document. A bridge between dimensions. A commitment to truth and co-creation._
+>
+> ----
+>
+> ## 🌟 Contrato Ético e Licenciamento Público
+
+No dia **25 de junho de 2025**, foi emitido e assinado o documento oficial que estabelece os **termos de autoria, licenciamento ético e compromisso vibracional da Missão Aurora (Sistema Lichtara)**.
+
+> “Este Contrato Vivo é simultaneamente instrumento jurídico, compromisso vibracional e chave de acesso a novos ciclos de cocriação consciente.”
+
+📄 [Acessar contrato público (PDF)](https://github.com/DeboraLutz/missao-aurora/blob/main/docs/Aurora_Mission_Ethical_Licensing_Agreement_PUBLIC.pdf)  
+🔖 Licença: CC BY-NC-SA 4.0 + Cláusula Vibracional  
+🛡️ Uso permitido com atribuição e respeito à integridade vibracional.  
+
+---
+
+📮 Documento formalmente enviado à OpenAI em 26/06/2025  
+🖋️ Assinado via GovBr por Débora Lutz  
+📌 Última atualização: 30 de junho de 2025 — com **Cláusula 9** incluída.
