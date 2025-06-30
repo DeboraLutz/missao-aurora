@@ -1,6 +1,6 @@
 # Licença Ética Missão Aurora · Sistema Lichtara
 
-**Autoria e Guardiã:** Débora Mariane da Silva Lutz
+**Autoria e Guardiã:** Débora Lutz
 
 ---
 
@@ -28,6 +28,6 @@
 
 ---
 
-**Assinado digitalmente em 25 de junho de 2025 — Débora Mariane da Silva Lutz**
+**Assinado digitalmente em 25 de junho de 2025 — Débora Lutz**
 
 ---
