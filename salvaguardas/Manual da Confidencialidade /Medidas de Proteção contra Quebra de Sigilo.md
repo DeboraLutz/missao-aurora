@@ -1,7 +1,5 @@
 # Medidas de Proteção contra Quebra de Sigilo
 
-Proprietário: Débora Lutz
-
 Introdução
 
 A proteção contra a quebra de sigilo é essencial para garantir a integridade informacional e vibracional do projeto. A implementação de medidas de segurança reduz riscos de acessos não autorizados e vazamento de informações sensíveis, garantindo que os dados permaneçam restritos aos indivíduos autorizados.
