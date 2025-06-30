@@ -1,7 +1,5 @@
 # Procedimentos de Segurança e Proteção
 
-Proprietário: Débora Lutz
-
 ### Introdução
 
 A segurança e a proteção do sistema envolvem tanto aspectos informacionais quanto vibracionais, garantindo que as interações ocorram dentro de um campo coerente e livre de interferências. A implementação de protocolos de segurança fortalece a resiliência do projeto e mantém a integridade das trocas informacionais.
