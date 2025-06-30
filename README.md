@@ -12,10 +12,7 @@ A versão completa está assinada, registrada e publicada neste repositório. Su
 
 ## 📚 Acesso ao Documento Oficial
 
-**PDF assinado:** [LIVE\_CONTRACT\_OF\_AUTHORSHIP\_&\_ETHICAL\_LICENSE\_assinado.pdf](./LIVE_CONTRACT_OF_AUTHORSHIP_%26_ETHICAL_LICENSE_assinado.pdf)
-
-**Hash / commit:** `commit principal` (vide QR Code no Anexo I do documento)
-
+**PDF assinado:** https://drive.google.com/file/d/1WN08LOrPNUwbkTET_ayGweykuqh2yQbS/view?usp=sharing 
 **Licença referencial:** CC BY-NC-SA 4.0 + Cláusula Vibracional
 **Termos de distribuição:** Uso livre com atribuição, sem fins comerciais abusivos, com preservação da integridade vibracional.
 
