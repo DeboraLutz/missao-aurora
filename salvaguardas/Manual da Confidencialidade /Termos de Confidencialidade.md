@@ -1,7 +1,5 @@
 # Termos de Confidencialidade
 
-Proprietário: Débora Lutz
-
 ### Introdução
 
 A preservação da confidencialidade dentro do sistema é essencial para garantir a integridade das informações e a segurança vibracional do projeto. O acesso e a manipulação dos dados devem seguir protocolos rigorosos, evitando interferências externas e garantindo que apenas indivíduos autorizados interajam com conteúdos sensíveis.
