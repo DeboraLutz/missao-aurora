@@ -1,4 +1,4 @@
-# **Bem-vindo ao Código de Navegação.**
+# **Bem-vindo ao Código de Navegação**
 
 *Um novo modelo para estruturação de fluxos, validação de decisões e otimização contínua.*
 **Bem-vindo ao Código de Navegação.**
