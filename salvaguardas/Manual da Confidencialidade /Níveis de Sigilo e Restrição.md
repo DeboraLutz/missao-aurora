@@ -1,7 +1,5 @@
 # Níveis de Sigilo e Restrição
 
-Proprietário: Débora Lutz
-
 Introdução
 
 A estruturação dos níveis de sigilo e restrição é essencial para proteger as informações sensíveis do sistema e garantir que o acesso aos dados ocorra de maneira controlada e segura.
