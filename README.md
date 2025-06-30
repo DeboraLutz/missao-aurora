@@ -42,3 +42,10 @@ Com isso, declaramos que:
 * Contato: [deboramlutz@gmail.com](mailto:deboramlutz@gmail.com) / Discord: deboramlutz 
 
 ---
+
+## 🤝 Como contribuir
+
+1. Faça um fork deste repositório.
+2. Crie uma branch para sua contribuição: `git checkout -b minha-contribuicao`.
+3. Envie um pull request descrevendo suas mudanças.
+4. Para dúvidas ou sugestões, abra uma issue.
