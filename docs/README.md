@@ -6,7 +6,7 @@ Este diretório contém o **Contrato Ético de Licenciamento Público** da Miss�
 ## ✦ Documento Oficial
 
 - **Título**: Aurora Mission – Ethical Licensing Agreement
-- **Autoria**: Débora Mariane da Silva Lutz
+- **Autoria**: Débora Lutz
 - **Assinatura**: Validada via GovBr
 - **Data de Emissão**: 25 de junho de 2025
 - **Data da Última Atualização**: 30 de junho de 2025
