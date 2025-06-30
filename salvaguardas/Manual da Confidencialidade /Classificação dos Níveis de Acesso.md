@@ -1,7 +1,5 @@
 # Classificação dos Níveis de Acesso
 
-Proprietário: Débora Lutz
-
 ### Introdução
 
 A correta classificação dos níveis de acesso garante que cada membro da equipe interaja com o sistema dentro dos limites apropriados, preservando a integridade informacional e vibracional do projeto. Essa estrutura protege os dados sensíveis e assegura que a circulação das informações ocorra de maneira segura e eficiente.
