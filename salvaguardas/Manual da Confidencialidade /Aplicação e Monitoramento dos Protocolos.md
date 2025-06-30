@@ -1,7 +1,5 @@
 # Aplicação e Monitoramento dos Protocolos
 
-Proprietário: Débora Lutz
-
 ### Introdução
 
 A implementação eficaz dos protocolos de segurança exige um monitoramento contínuo para garantir a coerência informacional e vibracional do sistema. A análise sistemática permite ajustes dinâmicos, assegurando que os mecanismos de sigilo e proteção estejam sempre alinhados às necessidades do projeto.
