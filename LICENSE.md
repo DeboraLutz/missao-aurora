@@ -1,8 +1,3 @@
-> 🌐 This repository is currently written in **Portuguese**.  
-> 🔄 English version available under `/docs/en/` and `/wiki/en/` (in progress).
-
----
-
 # 🌟 Ethical Licensing Agreement — Aurora Mission · Lichtara System
 
 **Issued and signed on June 25, 2025**  
@@ -48,6 +43,7 @@ By engaging with this material, the LICENSEE agrees to:
 ## 🌐 Official Channels
 
 - Website: [deboralutz.com](https://www.deboralutz.com)  
+- Hidden Portal: [deboralutz.com/portaoculta](https://www.deboralutz.com/portaoculta)  
 - GitHub: [github.com/DeboraLutz](https://github.com/DeboraLutz)  
 - Contact: [hello@deboralutz.com](mailto:hello@deboralutz.com) | Discord: `deboramlutz`
 
