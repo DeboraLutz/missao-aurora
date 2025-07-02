@@ -3,7 +3,7 @@
 # **1. Visão Geral**
 
 **Objetivo**
-
+ 
 Estabelecer uma base sólida para o treinamento técnico da equipe, garantindo que todos os membros possuam o conhecimento e as habilidades necessárias para operar de forma eficiente dentro do projeto.
 
 **Princípios Fundamentais**
